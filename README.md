@@ -10,12 +10,17 @@
     <tr>
         <td>Multiples of 3 or 5</td>
         <td>https://projecteuler.net/problem=1 </td>
-        <td>multipos3-5.py</td>
+        <td> <a href="./1p/multipos3-5.py">multipos3-5.py</a> </td>
     </tr>
     <tr>
         <td>Largest Prime Factor</td>
         <td>https://projecteuler.net/problem=3</td>
-        <td>LargestPrimeFactor.py</td>
+        <td> <a href="./1p/LargestPrimeFactor.py">LargestPrimeFactor.py</a> </td>
+    </tr>
+    <tr>
+        <td>Largest Palindrome Product</td>
+        <td>https://projecteuler.net/problem=4</td>
+        <td> <a href="./1p/">-</a> </td>
     </tr>
 
 </table>
@@ -30,12 +35,12 @@
     <tr>
         <td>Encontrar la Cantidad de Potencias de 2 a la n en una Cadena de Caracteres</td>
         <td> https://youtu.be/0_K-uotVabE?si=Ph2XgPjwVfM9xZdt </td>
-        <td>171y.py</td>
+        <td> <a href="./you/171y.py"> 171y.py </a> </td>
     </tr>
     <tr>
         <td>Calcular la Cantidad Mínima de Monedas para el Cambio de una Compra</td>
         <td>https://youtu.be/pCTH2-TmXY4?si=HXTD7_z76a0ALcC5</td>
-        <td>173.py</td>
+        <td> <a href="./you/173y.py"> 173y.py </a> </td>
     </tr>
 
 </table>
